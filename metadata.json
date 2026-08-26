@@ -1,0 +1,7 @@
+{
+  "name": "Setu Health",
+  "description": "Community and emergency health bridge app with instant SOS ambulance dispatch, real-time hospital bed tracking, AI triage & Rx scanner, and doctor consultations.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
